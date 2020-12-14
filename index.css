@@ -1,0 +1,81 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background: linear-gradient(to top right, #000000 0%, #ffffff 100%);
+}
+.img-main {
+  padding-top: 20px;
+  width: 100%;
+}
+#first-tag {
+  margin-top: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 50px;
+  color: black;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.nav-link {
+  margin-right: 50px;
+}
+.logo {
+  width: 200px;
+}
+#main-tag {
+  display: flex;
+  height: 720px;
+  padding-top: 300px;
+  padding-bottom: 200px;
+  align-items: center;
+}
+
+/*mid*/
+.second-b {
+  margin-bottom: 20px;
+}
+.second-a {
+  margin-bottom: 30px;
+}
+
+.middle {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+/**/
+.marketing {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  color: #ffffff;
+}
+.rounded-circle {
+  margin-bottom: 20px;
+}
+.hello-da {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.foot {
+  color: #ffffff;
+  padding: 20px;
+  padding-top: 50px;
+}
+.col-lg-4 {
+  margin-bottom: 20px;
+}
+h2 {
+  color: #000000;
+}
+.cover-heading {
+  padding-bottom: 30px;
+}
+.btn {
+  margin-top: 20px;
+}
+
+.btn-secondary :hover {
+  background: linear-gradient(to top right, #0000cc 0%, #33ccff 100%);
+}
